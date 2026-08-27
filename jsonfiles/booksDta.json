@@ -1,0 +1,16 @@
+{
+  "location": {
+    "lat": 12.971599,
+    "lng": 77.594566
+  },
+  "accuracy": 75,
+  "name": "Green Valley Apartments",
+  "phone_number": "(+91) 987 654 3210",
+  "address": "45, MG Road, Bangalore 560001",
+  "types": [
+    "restaurant",
+    "cafe"
+  ],
+  "website": "http://example.com",
+  "language": "English-IN"
+}
