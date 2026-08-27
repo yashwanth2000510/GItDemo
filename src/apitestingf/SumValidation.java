@@ -24,6 +24,7 @@ public class SumValidation {
 //			
 			int t = p*c;
 			System.out.println(t);
+			System.out.println("----------------------------------------------------------------------");
 			sum = sum+t;
 			
 			
