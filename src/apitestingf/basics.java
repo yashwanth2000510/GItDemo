@@ -43,7 +43,7 @@ public class basics {
 		
 		System.out.println(placeid);
 		System.out.println("yashwanthh    -                      -------------------------");
-		
+		System.out.println("god help me pass this interview");
 		
 //		// update place
 //		String newAdress = "Summer walk, Africa";
